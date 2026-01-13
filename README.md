@@ -94,7 +94,7 @@ cd ~
 
 # GitHub에서 프로젝트 클론
 git clone https://github.com/SonJongKyu/chatbot.git
-cd RAG_Chatbot
+cd chatbot
 ```
 
 ---
